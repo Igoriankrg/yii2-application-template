@@ -8,7 +8,7 @@ class BowerAsset extends AssetBundle
 {
 	public $sourcePath = '@bower/admin-lte/dist';
 	public $js = [
-		'js/adminlte.min.js',
+		'js/app.min.js',
 	];
 	public $css = [
 		'css/AdminLTE.min.css',
